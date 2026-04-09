@@ -1,3 +1,3 @@
 # kanha-demo
 This is my first repository
-Author- Kanhaiya Vishwakarma
+Author- Kanhaiya Vishwakarma(Kanha Startup)
